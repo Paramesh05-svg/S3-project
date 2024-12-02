@@ -11,5 +11,7 @@ Prerequisites
 - S3 Bucket: Create a private S3 bucket.
 - IAM User: Create an IAM user with permissions to upload files to your S3 bucket.
 
-
+## Setup 1.
+**Clone this repository**: 
+```sh git clone https://github.com/Paramesh05-svg/S3-project.git
 
