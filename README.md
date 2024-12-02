@@ -13,5 +13,5 @@ Prerequisites
 
 ## Setup 1.
 **Clone this repository**: 
-```sh git clone https://github.com/Paramesh05-svg/S3-project.git
+git clone https://github.com/Paramesh05-svg/S3-project.git
 
