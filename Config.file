@@ -1,0 +1,11 @@
+## Configuration 
+{
+    "aws_access_key_id": "YOUR_ACCESS_KEY_ID",
+    "aws_secret_access_key": "YOUR_SECRET_ACCESS_KEY",
+    "bucket_name": "s3-pro-cli",
+    "region": "YOUR_BUCKET_REGION",
+    "file_key": "YOUR_FILE_KEY",
+    "file_path": "PATH_TO_YOUR_FILE",
+    "part_size": 20971520,  // 20MB per part
+    "upload_id": "YOUR_UPLOAD_ID"
+}
