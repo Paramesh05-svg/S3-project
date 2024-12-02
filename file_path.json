@@ -1,0 +1,38 @@
+ "Parts": [
+        {
+            "PartNumber": 1,
+            "LastModified": "2024-12-02T15:00:47+00:00",
+            "ETag": "\"9b8d31385d5a0ae4cecc1fd1f4ba1a0e\""
+        },
+         
+        { "PartNumber": 2,
+            "LastModified": "2024-12-02T15:00:47+00:00",
+            "ETag": "\"f9c186d27af444910e4819a47605a6ad\""
+        },
+        { "PartNumber": 3,
+            "LastModified": "2024-12-02T15:00:47+00:00",
+            "ETag": "\"6259451906a4d6e703458946bcd63a0c\""
+        },    
+        {  "PartNumber": 4,
+            "LastModified": "2024-12-02T15:00:47+00:00",
+            "ETag": "\"8ff6d30bc3c1472d1810801e1ad7d625\""
+        },
+        {  "PartNumber": 5,
+            "LastModified": "2024-12-02T15:00:47+00:00",
+            "ETag": "\"f09ee16a9ece1eb4e51a53a1c8e16df4\""
+        },   
+        {   "PartNumber": 6,
+            "LastModified": "2024-12-02T15:00:47+00:00",
+            "ETag": "\"05a25dba1441693ec99fd8c333f986a3\""  
+        }
+          ],
+    "ChecksumAlgorithm": null,
+    "Initiator": {
+        "ID": "arn:aws:iam::905418324723:user/Mys3user",
+        "DisplayName": "Mys3user"
+    },
+    "Owner": {
+        "ID": "4c5f0910eafa5f1ea1a6fef43c02f1f2325557d6b2a5b516f75d4f8fc13081b3"
+    },
+    "StorageClass": "STANDARD"
+}
